@@ -1,2 +1,2 @@
-# VanMinh-s-Challenge
+# 100 Problems
 VanMinh's Challenge
