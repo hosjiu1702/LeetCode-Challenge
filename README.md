@@ -1,4 +1,4 @@
-# 100 Problems
+# 100 Problems in 30 days
 VanMinh's Challenge
 ___
 
